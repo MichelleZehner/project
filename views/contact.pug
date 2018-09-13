@@ -1,0 +1,50 @@
+extends ./template.pug
+
+block content
+  .column3contact
+  .container
+    h4 Connect with Annette
+    p If you have a question, comment, or would like to request an appointment, please fill in the form below.
+    form#contactInfo(action='/contact', method='POST', enctype='application/x-www-form-urlencoded')
+      .row
+        .col-25
+          label(for='firstname') First Name
+        .col-75
+          input#firstname(type='text' name='firstname' placeholder='Your name..')
+      .row
+        .col-25
+          label(for='lastname') Last Name
+        .col-75
+          input#lastname(type='text' name='lastname' placeholder='Your last name..')
+      .row
+        .col-25
+          label(for='email') Email
+        .col-75
+          input#email(type='text' name='email' placeholder='Your email..')
+      .row
+        .col-25
+          label(for='phonenumber') Phone Number
+        .col-75
+          input#phonenumber(type='text' name='phonenumber' placeholder='Your phone number..')
+      .row
+        .col-25
+          label(for='gender') Gender
+        .col-75
+          input#gender(type='text' name='gender' placeholder='Please indicate your gender..')
+      .row
+        .col-25
+          label(for='age') Age
+        .col-75
+          input#gender(type='text' name='age' placeholder='Please indicate your age..')
+      .row
+        .col-25
+          label(for='comments') Comments
+        .col-75
+          input#comments(type='text' name='comments' placeholder='Your questions, comments, or appointment requests..')
+     
+      .row
+        input(type='submit' value='Submit' )
+      .row
+        ul
+          a(href='consent') Printable Health Form
+

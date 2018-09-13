@@ -1,0 +1,352 @@
+$font-stack: Helevetica, sans-serif;
+
+body {
+    font: 100% font-stack
+}
+
+
+.column1 {
+    float: center;
+    padding-bottom: 30px;}
+
+h1 { 
+    text-align: center;
+    font-size: 75px;
+    color: #004d4d;
+    text-shadow: 2px 2px 3px #4a0000;
+    padding: 0;
+    margin: -1px;}
+
+h2 {
+    text-align: center;
+    font-size: 50 px;
+    color: #00b3b3;
+    padding: 20;
+    margin: 0;}
+
+h4 {
+    font-size: 1000 px;
+    color: #00b3b3;
+    padding: 10px, 0px, 100px, 0px;}
+                     
+.column2 {
+    float: left;
+    width: 25%;
+    height: 550px;
+    padding: 10px;}
+
+ul {
+    margin: 10px, 0px, 10px, 0px;
+    padding: 0;
+    list-style: none;}
+
+.navigation ul li>a {
+    display: block;
+    padding: 10px 0px;
+    text-align: center;
+    text-decoration: none;
+    color: #004d4d;
+    font-size: 20px;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;}
+a:hover {
+    color: #eee;
+    background-color: rgb(202, 199, 199)}
+
+.picture img {
+    margin-left: 50px;
+    width: 200px;
+    height:200px;
+}
+
+.column3 {
+    width: 75%;
+    margin-left: 360px;
+}
+
+.customized { 
+    margin-left: 328px;
+}
+.customized h4 {
+    font-size: 30px;
+    color: #00b3b3;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;  
+}
+
+.customized h3 {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.customized p {
+    margin-top: 0px;
+    margin-left: 10px;
+}
+.hotstone { 
+    margin-left: 328px;
+}
+.hotstone h4 {
+    font-size: 30px;
+    color: #00b3b3;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;  
+}
+
+.hotstone h3 {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.hotstone p {
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.thaistem { 
+    margin-left: 328px;
+}
+.thaistem h4 {
+    font-size: 30px;
+    color: #00b3b3;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;  
+}
+
+.thaistem h3 {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.thaistem p {
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.reflexology { 
+    margin-left: 328px;
+}
+.reflexology h4 {
+    font-size: 30px;
+    color: #00b3b3;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;  
+}
+
+.reflexology h3 {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.reflexology p {
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.pedicures { 
+    margin-left: 328px;
+}
+.pedicures h4 {
+    font-size: 30px;
+    color: #00b3b3;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;  
+}
+
+.pedicures h3 {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.pedicures p {
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+
+.bodywrap { 
+    margin-left: 328px;
+}
+.bodywrap h4 {
+    font-size: 30px;
+    color: #00b3b3;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;  
+}
+
+.bodywrap h3 {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.bodywrap p {
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.facials { 
+    margin-left: 328px;
+}
+.facials h4 {
+    font-size: 30px;
+    color: #00b3b3;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;  
+}
+
+.facials h3 {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.facials p {
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.saltscrub { 
+    margin-left: 328px;
+}
+.saltscrub h4 {
+    font-size: 30px;
+    color: #00b3b3;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;  
+}
+
+.saltscrub h3 {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.saltscrub p {
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.spaparty { 
+    margin-left: 328px;
+}
+.spaparty h4 {
+    font-size: 30px;
+    color: #00b3b3;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;  
+}
+
+.spaparty h3 {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.spaparty p {
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.column3contact {
+    width: 75%;
+    margin-left: 330px;}
+
+.container h4 {
+    font-size: 30px;
+    color: #00b3b3;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 10px;  } 
+
+input[type=text], select, textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        resize: vertical;}
+
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }
+  
+
+input[type=submit] {
+    background-color: #00b3b3;
+    color: white;
+    padding: 12px 55px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+
+input[type=submit]:hover {
+    background-color: #004d4d;
+}
+input[type=refresh] {
+    background-color: #00b3b3;
+    color: white;
+    text-align: center;
+    padding: 12px 0px;
+    border: 0px;
+    margin-left: 550px;
+    border-radius: 4px;
+    cursor: pointer;
+    float:left ;
+}
+
+input[type=refresh]:hover {
+    background-color: #004d4d;
+}
+input[type=text]:focus {
+    outline: 1px solid #00b3b3}
+
+.container {
+    border-radius: 5px;
+    padding: 20px;
+    margin-left: 332px;
+    overflow: hidden;
+}
+.col-25 {
+    float: left;
+    width: 15%;
+    margin-top: 6px;
+    margin-bottom: 6px;
+  }
+  
+
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+  }
+
+.row ul a {
+    color: #098888; 
+    text-decoration: none;
+    font-size: 25px;
+}
+  
+  .row::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
